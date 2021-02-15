@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# 
+# Start of session at: Mon Aug  3 20:48:17 2020
+# Process ID: 9799
+# Current directory: /mnt/data/projects/py_qt_temp_sensor/Py_Qt_TS.sdk/webtalk
+# Command line: wbtcv -mode batch -source sdk_webtalk.tcl
+# Log file: /mnt/data/projects/py_qt_temp_sensor/Py_Qt_TS.sdk/webtalk/webtalk.log
+# Journal file: /mnt/data/projects/py_qt_temp_sensor/Py_Qt_TS.sdk/webtalk/webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl

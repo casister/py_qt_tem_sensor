@@ -1,0 +1,18 @@
+
+# git ignore
+
+
+##########################################################################################
+# ---- Python related dirs/files ---- #
+venv/
+var/
+
+###------------------------------------------------------------------------------------###
+#The slash symbol (/) represents a directory separator. The slash at the beginning of a pattern is relative to the #directory where the .gitignore resides.
+
+#If the pattern starts with a slash, it matches files and directories only in the repository root.
+
+#If the pattern doesn’t start with a slash, it matches files and directories in any directory or subdirectory.
+
+#If the pattern ends with a slash, it matches only directcd .ories. When a directory is ignored, all of its files and subdirectories are also ignored.
+#Literal File Names 
